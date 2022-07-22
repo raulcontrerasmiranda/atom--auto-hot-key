@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/raulcontrerasmiranda/atom--auto-hot-key",
+  "repository": "https://github.com/raulcontrerasmiranda/Atom-AutoHotKey",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
