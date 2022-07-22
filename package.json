@@ -1,5 +1,5 @@
 {
-  "name": "atom--auto-hot-key",
+  "name": "atom--autohotkey--highlight",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A short description of your syntax theme",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom--auto-hot-key",
+  "repository": "https://github.com/raulcontrerasmiranda/atom--auto-hot-key",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
